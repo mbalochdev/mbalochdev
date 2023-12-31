@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mbalochdev&label=Profile%20views&color=0eb44d&style=flat" alt="mbalochdev" /> </p>
 
-<p align="left"><img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" alt="mbalochdev" /></a> </p>
-
 - 🌱 I’m currently learning **ML at kaggle and AI development.**
 
 - 👨‍💻 All of my projects are available at [mbalochdev.github.io/mbaloch](mbalochdev.github.io/mbaloch)
