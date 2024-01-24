@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mbalochdev&label=Profile%20views&color=0eb44d&style=flat" alt="mbalochdev" /> </p>
 
-- 🌱 I’m currently learning **ML at kaggle and AI development.**
+- 🌱 I’m currently learning **Full Stack Web2/3 Development & Security.**
 
 - 👨‍💻 All of my projects are available at [mbalochdev.github.io/mbaloch](mbalochdev.github.io/mbaloch)
 
